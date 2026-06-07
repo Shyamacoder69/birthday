@@ -5,7 +5,7 @@ import random
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-API_BASE = "http://localhost:8000"
+API_BASE = "https://birthday-bomh.onrender.com"
 
 st.set_page_config(
     page_title="National Birthday Aptitude Test",
