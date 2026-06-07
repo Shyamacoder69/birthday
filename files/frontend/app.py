@@ -371,7 +371,7 @@ def page_home():
         &nbsp;&nbsp;▸ Complete three aptitude tests.<br>
         &nbsp;&nbsp;▸ Pass AI verification.<br>
         &nbsp;&nbsp;▸ Claim your birthday gift.<br><br>
-        <span class="ok">Failure is acceptable.</span><br>
+        <span class="ok">Failure is acceptable Dont worry this paper wont be cancelled .</span><br>
         <span class="warn">Disappointment is not.</span>
     </div>
     """, unsafe_allow_html=True)
